@@ -1105,28 +1105,31 @@
         typeMessage();
 
         // ==================== Countdown Timer ====================
-        function updateCountdown() {
-            // Target: end of today (23:59:59.999) because the birthday is today
-            const now = new Date();
-            const endOfToday = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59, 999);
-            let distance = endOfToday - now;
+function updateCountdown() {
+    // Set birthday date here
+    const birthday = new Date("May 21, 2026 00:00:00").getTime();
 
-            // If already past end of today, don't show negative numbers
-            if (distance < 0) distance = 0;
+    const now = new Date().getTime();
 
-            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    const distance = birthday - now;
 
-            document.getElementById('days').textContent = days;
-            document.getElementById('hours').textContent = String(hours).padStart(2, '0');
-            document.getElementById('minutes').textContent = String(minutes).padStart(2, '0');
-            document.getElementById('seconds').textContent = String(seconds).padStart(2, '0');
-        }
+    // Time calculations
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-        updateCountdown();
-        setInterval(updateCountdown, 1000);
+    document.getElementById("days").textContent = days;
+    document.getElementById("hours").textContent = hours;
+    document.getElementById("minutes").textContent = minutes;
+    document.getElementById("seconds").textContent = seconds;
+
+    // If countdown finished
+    if (distance < 0) {
+        document.getElementById("countdown").innerHTML =
+            "<h2>🎉 Happy Birthday Nachita 🎂</h2>";
+    }
+}
 
         // ==================== Music Button ====================
         const musicBtn = document.getElementById('musicBtn');
