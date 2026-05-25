@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1779697190121,
+    "subject": "Meeting Confirmation Tomorrow",
+    "body": "Dear user,\n\nWe detected unusual activity in your account. To avoid temporary suspension, please verify your account information within the next 24 hours.\n\nBest regards,\nAmit Sharma",
+    "prediction": "ham",
+    "confidence": 0.0161,
+    "createdAt": "2026-05-25T08:19:50.121Z"
+  },
+  {
+    "id": 1779697129578,
+    "subject": "Meeting Confirmation Tomorrow",
+    "body": "Dear Rahul,\n\nI hope you are doing well.\n\nThis is to confirm our meeting scheduled for discussion. Please let me know if there are any changes to the timing.\n\nBest regards,\nAmit Sharma",
+    "prediction": "ham",
+    "confidence": 0,
+    "createdAt": "2026-05-25T08:18:49.578Z"
+  },
+  {
+    "id": 1779697119426,
+    "subject": "Meeting Confirmation for Tomorrow",
+    "body": "Dear Rahul,\n\nI hope you are doing well.\n\nThis is to confirm our meeting scheduled for discussion. Please let me know if there are any changes to the timing.\n\nBest regards,\nAmit Sharma",
+    "prediction": "ham",
+    "confidence": 0,
+    "createdAt": "2026-05-25T08:18:39.426Z"
+  },
+  {
+    "id": 1779697118955,
+    "subject": "Meeting Confirmation for Tomorrow",
+    "body": "Dear Rahul,\n\nI hope you are doing well.\n\nThis is to confirm our meeting scheduled for discussion. Please let me know if there are any changes to the timing.\n\nBest regards,\nAmit Sharma",
+    "prediction": "ham",
+    "confidence": 0,
+    "createdAt": "2026-05-25T08:18:38.955Z"
+  },
+  {
+    "id": 1779697104885,
+    "subject": "Meeting Confirmation for Tomorrow",
+    "body": "Dear Rahul,\n\nI hope you are doing well.\n\nThis is to confirm our meeting scheduled for tomorrow at 11:00 AM regarding the project discussion. Please let me know if there are any changes to the timing.\n\nBest regards,\nAmit Sharma",
+    "prediction": "ham",
+    "confidence": 0,
+    "createdAt": "2026-05-25T08:18:24.885Z"
+  },
+  {
+    "id": 1779697086648,
+    "subject": "Meeting Confirmation for Tomorrow",
+    "body": "Dear Rahul,\n\nI hope you are doing well.\n\nThis is to confirm our meeting scheduled for tomorrow at 11:00 AM regarding the project discussion. Please let me know if there are any changes to the timing.\n\nLooking forward to speaking with you.\n\nBest regards,\nAmit Sharma",
+    "prediction": "ham",
+    "confidence": 0,
+    "createdAt": "2026-05-25T08:18:06.648Z"
+  },
+  {
+    "id": 1779697034342,
+    "subject": "Verify Your Account Immediately",
+    "body": "Dear User,\n\nWe detected unusual activity in your account. To avoid temporary suspension, please verify your account information within the next 24 hours.\n\nIf you do not verify your account, access may be permanently restricted.\n\nThank you,\nSecurity Support Team",
+    "prediction": "spam",
+    "confidence": 0.9715,
+    "createdAt": "2026-05-25T08:17:14.342Z"
+  },
+  {
+    "id": 1779697019196,
+    "subject": "Verify Your Account Immediately",
+    "body": "Dear User,\n\nWe detected unusual activity in your account. To avoid temporary suspension, please verify your account information within the next 24 hours.\n\nClick the link below to continue verification:\n\nhttp://secure-account-check.example.com\n\nIf you do not verify your account, access may be permanently restricted.\n\nThank you,\nSecurity Support Team",
+    "prediction": "spam",
+    "confidence": 0.9944,
+    "createdAt": "2026-05-25T08:16:59.196Z"
+  },
+  {
+    "id": 1779697017540,
+    "subject": "Verify Your Account Immediately",
+    "body": "Dear User,\n\nWe detected unusual activity in your account. To avoid temporary suspension, please verify your account information within the next 24 hours.\n\nClick the link below to continue verification:\n\nhttp://secure-account-check.example.com\n\nIf you do not verify your account, access may be permanently restricted.\n\nThank you,\nSecurity Support Team",
+    "prediction": "spam",
+    "confidence": 0.9944,
+    "createdAt": "2026-05-25T08:16:57.540Z"
+  },
+  {
+    "id": 1779697012029,
+    "subject": "Verify Your Account Immediately",
+    "body": "Dear User,\n\nWe detected unusual activity in your account. To avoid temporary suspension, please verify your account information within the next 24 hours.\n\nClick the link below to continue verification:\n\nhttp://secure-account-check.example.com\n\nIf you do not verify your account, access may be permanently restricted.\n\nThank you,\nSecurity Support Team",
+    "prediction": "spam",
+    "confidence": 0.9944,
+    "createdAt": "2026-05-25T08:16:52.029Z"
+  },
+  {
+    "id": 1779696910439,
+    "subject": "unusual activity ",
+    "body": "Dear Customer,\n\nWe noticed unusual activity on your account. For your protection, your account will be temporarily suspended within 24 hours unless you verify your information immediately.\n\nPlease click the secure link below to confirm your identity:",
+    "prediction": "spam",
+    "confidence": 0.9963,
+    "createdAt": "2026-05-25T08:15:10.439Z"
+  },
+  {
+    "id": 1779696907435,
+    "subject": "unusual activity ",
+    "body": "Dear Customer,\n\nWe noticed unusual activity on your account. For your protection, your account will be temporarily suspended within 24 hours unless you verify your information immediately.\n\nPlease click the secure link below to confirm your identity:",
+    "prediction": "spam",
+    "confidence": 0.9963,
+    "createdAt": "2026-05-25T08:15:07.435Z"
+  }
+]

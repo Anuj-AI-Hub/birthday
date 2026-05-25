@@ -1,0 +1,22 @@
+[
+  {"subject":"Special Offer Just for You","body":"Get 70% off your order today only. Claim your free gift now.","label":"spam"},
+  {"subject":"Meeting Reminder","body":"Hi team, remember our project meeting tomorrow at 10am.","label":"ham"},
+  {"subject":"Congratulations, You Won","body":"You have been selected to receive a prize. Click this link to claim.","label":"spam"},
+  {"subject":"Family Dinner" ,"body":"Would you like to join us for dinner this Saturday? Let me know.","label":"ham"},
+  {"subject":"Your invoice is ready","body":"Please review the attached bill and pay before the due date.","label":"ham"},
+  {"subject":"Win a free vacation","body":"Exclusive getaway offer available now. Act fast and save big.","label":"spam"},
+  {"subject":"Project update","body":"The development sprint is on track and the deployment is scheduled for next week.","label":"ham"},
+  {"subject":"Urgent account alert","body":"Your account will be locked unless you verify your login details immediately.","label":"spam"},
+  {"subject":"Lunch plans","body":"Are we still meeting for lunch at 12:30? I can bring the reports.","label":"ham"},
+  {"subject":"Low interest loan","body":"Borrow money at low monthly payments. No credit check required.","label":"spam"},
+  {"subject":"Team celebration","body":"Let's celebrate the release with cake in the conference room on Friday.","label":"ham"},
+  {"subject":"Free gift card","body":"Receive a gift card when you sign up through our special offer.","label":"spam"},
+  {"subject":"Performance review","body":"Please prepare your goals and accomplishments for the review meeting.","label":"ham"},
+  {"subject":"Limited time sale","body":"Huge discounts available today only. Don't miss this incredible deal.","label":"spam"},
+  {"subject":"Happy birthday","body":"Wishing you a wonderful birthday and a year full of joy.","label":"ham"},
+  {"subject":"Confirm your subscription","body":"Click to confirm your newsletter subscription and get exclusive updates.","label":"spam"},
+  {"subject":"Status report","body":"I attached the weekly status report. Please review and share feedback.","label":"ham"},
+  {"subject":"You are pre-approved","body":"Congratulations, you are pre-approved for a new credit card with zero fees.","label":"spam"},
+  {"subject":"Happy anniversary","body":"Enjoy this special day. Thank you for your hard work and dedication.","label":"ham"},
+  {"subject":"Make money fast","body":"Earn cash quickly from home with our easy program. Start today.","label":"spam"}
+]
